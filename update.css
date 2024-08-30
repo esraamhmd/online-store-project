@@ -1,0 +1,63 @@
+.back{
+    margin: 0;
+    padding: 0;
+    background-image: url('.//image store/update.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 200px;
+   
+}
+.main{
+    width: 40%;
+    background-color:#22092C;
+    box-shadow: 1px 1px 10px #F05941;
+    margin-top: 45px;
+    padding: 10px;
+}
+h2{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: italic;
+    color: rgb(235, 9, 84);
+}
+.nameproduct{
+    margin-top: 20px;
+
+}
+input{
+    margin: 10px;
+    width: 60%;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+button{
+    border: none;
+    padding: 8px;
+    width: 40%;
+    
+    font-size: 13px;
+    background-color: #F05941;
+    cursor: pointer;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+label{
+    padding: 7px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: italic;
+    background-color: brown;
+    color:wheat;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: wheat;
+    font-style: italic;
+    font-family: "Playfair Display", serif;
+    
+}

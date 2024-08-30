@@ -1,0 +1,22 @@
+
+
+h3{
+    font-family: 'cairo', sans-serif;
+    font-weight: bold;
+}
+main{
+    width: 40%;
+    margin-top: 20px;
+
+}
+table{
+box-shadow:  1px 1px 10px #F05941;
+}
+thead{
+    background-color: #3498DB;
+    color:white;
+    text-align: center;
+}
+tbody{
+    text-align: center;
+}

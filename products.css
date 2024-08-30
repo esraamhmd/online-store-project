@@ -1,0 +1,50 @@
+.product {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-image: url('image store/store9.jpg'); /* Adjust path and image name */
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.product::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+}
+
+h3 {
+    font-size: xx-large;
+    font-optical-sizing: auto;
+    font-style: italic;
+    text-shadow: 2px 2px 4px #F05941;
+    font-weight: bold;
+    color: rgb(83, 20, 41);
+    line-height: 70px;
+}
+
+.card {
+    float: right;
+    margin: 20px 15px;
+    box-shadow: 1px 1px 10px #F05941;
+    margin-bottom: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: 400px;
+}
+
+main {
+    margin: auto;
+}
+
+.container {
+    position: absolute;
+    top: 8px;
+    right: 5px;
+}
