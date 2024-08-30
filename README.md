@@ -24,6 +24,18 @@ https://github.com/user-attachments/assets/5b006008-8001-46d0-9763-b692b0122b8a
 - **Bootstrap:** Responsive design and UI components.
 - **MongoDB/MySQL:** Database for storing product, user, and order data.
 
+## 🤝 Special Thanks
+
+A huge thank you to my amazing teammates for their incredible work on this project:
+
+- **Wesam Abdelazeem**
+- **Youmna Rabie**
+- **Sama Khaled**
+- **Dina Elaraby**
+
+Your dedication and hard work made this project possible!
+
+
 ## Getting Started
 
 ### Installation
