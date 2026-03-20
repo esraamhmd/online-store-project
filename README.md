@@ -43,3 +43,11 @@ Your dedication and hard work made this project possible!
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/esraamhmd/online-store-project.git
+
+
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
