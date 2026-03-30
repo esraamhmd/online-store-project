@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/5b006008-8001-46d0-9763-b692b0122b8a
 - **JavaScript:** Functionality and interactivity.
 - **PHP:** Backend logic and server-side processing.
 - **Bootstrap:** Responsive design and UI components.
-- **MongoDB/MySQL:** Database for storing product, user, and order data.
+- **MySQL:** Database for storing product, user, and order data.
 
 ## 🤝 Special Thanks
 
