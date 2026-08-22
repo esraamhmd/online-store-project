@@ -4,6 +4,8 @@
 
 The Women's Fashion Store is a web-based application designed to offer a seamless shopping experience for women's fashion products. Users can browse a curated selection of clothing, accessories, and footwear, add items to their cart, and complete their purchases with ease. This repository contains the source code and resources for the project, crafted with a focus on delivering a stylish and user-friendly shopping experience.
 
+https://github.com/user-attachments/assets/5b006008-8001-46d0-9763-b692b0122b8a
+
 ## Features
 
 - **Product Catalog:** Browse a variety of products categorized for easy navigation.
@@ -12,8 +14,7 @@ The Women's Fashion Store is a web-based application designed to offer a seamles
 - **Checkout Process:** Seamless checkout experience with order summary and payment options.
 - **Admin Panel:** Manage products, categories, and orders from a dedicated admin interface.
 
-## Demo
-https://github.com/user-attachments/assets/5b006008-8001-46d0-9763-b692b0122b8a
+
 
 ## Technologies Used
 
